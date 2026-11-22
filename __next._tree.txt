@@ -4,4 +4,4 @@
 :HL["/portfolio/_next/static/media/Vazirmatn_Medium-s.p.2-_uiwuue8zmx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/portfolio/_next/static/media/Vazirmatn_Regular-s.p.0dcb8kz605k8s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"R5L-I2Sj58NtifljFYoTB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aszqr_L9CUjHEmAwSLkOA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
